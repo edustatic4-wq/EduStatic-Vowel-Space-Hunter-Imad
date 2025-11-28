@@ -1,0 +1,14 @@
+{
+  "name": "Vowel Space Hunter",
+  "revisionLabel": "Fixed runtime error by removing all clan system references",
+  "description": "",
+  "mode": "Universal",
+  "exportDate": "2025-11-28T03:28:30.359Z",
+  "assetCount": 25,
+  "assetTypes": [
+    "wav",
+    "png",
+    "jpg",
+    "mp3"
+  ]
+}
